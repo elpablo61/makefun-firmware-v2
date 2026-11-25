@@ -1,0 +1,1 @@
+{"description":"Till Firmware Do Us Part — one wedding vow spoken by a robot, written to /output/entry.txt","license":"MIT","main":"main.ts","name":"makefun-firmware-v2","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
